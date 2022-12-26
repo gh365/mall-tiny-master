@@ -1,3 +1,10 @@
+---
+tags: [Import-d4e6]
+title: mall-tiny
+created: '2022-12-26T04:29:27.945Z'
+modified: '2022-12-26T04:30:52.751Z'
+---
+
 # mall-tiny
 
 <p>
@@ -342,11 +349,11 @@ public class UmsAdminController {
 
 ## 公众号
 
-mall项目全套学习教程连载中，关注公众号「**macrozheng**」第一时间获取。
+mall项目全套学习教程连载中，关注公众号「幸福视听」第一时间获取。
 
 加微信群交流，公众号后台回复「**加群**」即可。
 
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
+![公众号图片](https://mp.weixin.qq.com/rr?timestamp=1672028847&src=3&ver=1&signature=q5VsfOmGWns81lcWAVIddjGYQ2VhtldyVFYp5eK-WdGrs7GzZrQXtjkRIt3KLAZKcEnPAB0o3WJfXn9cq-*JPFitZamLJw-pR5DlSnd9Tn8=)
 
 ## 许可证
 
