@@ -353,7 +353,7 @@ mall项目全套学习教程连载中，关注公众号「幸福视听」第一�
 
 加微信群交流，公众号后台回复「**加群**」即可。
 
-![公众号图片](https://mp.weixin.qq.com/rr?timestamp=1672028847&src=3&ver=1&signature=q5VsfOmGWns81lcWAVIddjGYQ2VhtldyVFYp5eK-WdGrs7GzZrQXtjkRIt3KLAZKcEnPAB0o3WJfXn9cq-*JPFitZamLJw-pR5DlSnd9Tn8=)
+![公众号图片](https://i.ibb.co/Tgvmdc3/image.png)
 
 ## 许可证
 
