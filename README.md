@@ -347,10 +347,10 @@ public class UmsAdminController {
 }
 ```
 
-## 公众号
+## 抖音号
 
-mall项目全套学习教程连载中，关注公众号「幸福视听」第一时间获取。
+关注抖音号「幸福视听」第一时间获取。
 
-加微信群交流，公众号后台回复「**加群**」即可。
+加福利群交流，抖音号后台回复「**加群**」即可。
 
-![公众号图片](https://i.ibb.co/Tgvmdc3/image.png)
+![抖音号图片](https://i.ibb.co/MDch5vm/image.jpg)
